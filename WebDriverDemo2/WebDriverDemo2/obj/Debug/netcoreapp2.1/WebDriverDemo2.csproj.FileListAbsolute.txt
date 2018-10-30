@@ -1,0 +1,11 @@
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\bin\Debug\netcoreapp2.1\WebDriverDemo2.deps.json
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\bin\Debug\netcoreapp2.1\WebDriverDemo2.runtimeconfig.json
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\bin\Debug\netcoreapp2.1\WebDriverDemo2.runtimeconfig.dev.json
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\bin\Debug\netcoreapp2.1\WebDriverDemo2.dll
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\obj\Debug\netcoreapp2.1\WebDriverDemo2.csprojAssemblyReference.cache
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\obj\Debug\netcoreapp2.1\WebDriverDemo2.csproj.CoreCompileInputs.cache
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\obj\Debug\netcoreapp2.1\WebDriverDemo2.AssemblyInfoInputs.cache
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\obj\Debug\netcoreapp2.1\WebDriverDemo2.AssemblyInfo.cs
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\bin\Debug\netcoreapp2.1\WebDriverDemo2.pdb
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\obj\Debug\netcoreapp2.1\WebDriverDemo2.dll
+C:\Users\Simtlix\Desktop\Automation\AutomationTrain\WebDriverDemo2\WebDriverDemo2\obj\Debug\netcoreapp2.1\WebDriverDemo2.pdb
